@@ -1,10 +1,6 @@
 # IParkInStan
+Updated version of a previous school project from 2018. 
 
-Borde bara vara att köra
+The application works but after Google made changes to their API's the core functionality does not work due to the usage of Google Maps. 
 
-`npm install`
-`npm start`
-
-från projektmappen, installera Expo Client på din mobil. Följ bara intruktionerna som ges!
-
-EzPzLmnSqzy
+The original git repo: https://gits-15.sys.kth.se/jcarlste/IParkinStan
